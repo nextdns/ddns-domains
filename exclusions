@@ -36,3 +36,6 @@ ipv4.nsupdate.info
 # https://desec.io/
 update.dedyn.io
 update6.dedyn.io
+
+# https://ipv64.net/dyndns
+ipv64.net
