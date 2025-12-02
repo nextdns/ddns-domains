@@ -4,20 +4,17 @@
 www.duckdns.org
 
 # https://www.noip.com
-www.no-ip.com
 dynupdate.no-ip.com
-ipcast1.dynupdate.no-ip.com
-ip1.dynupdate.no-ip.com
-ip2.dynupdate.no-ip.com
+www.no-ip.com
 
 # https://www.dynu.com/DynamicDNS
-www.dynu.com
-freeddns.dynu.com
 api.dynu.com
 checkip.dynu.com
+freeddns.dynu.com
 ipcheck.dynu.com
-ipcheckv6.dynu.com
 ipcheckudp.dynu.com
+ipcheckv6.dynu.com
+www.dynu.com
 
 # https://account.dyn.com
 checkip.dyndns.org
@@ -27,11 +24,10 @@ members.dyndns.org
 # https://freedns.afraid.org
 freedns.afraid.org
 sync.afraid.org
-v6.sync.afraid.org
 
 # https://www.nsupdate.info
-www.nsupdate.info
 ipv4.nsupdate.info
+www.nsupdate.info
 
 # https://desec.io/
 update.dedyn.io
